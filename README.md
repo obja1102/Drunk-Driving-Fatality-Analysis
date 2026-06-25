@@ -1,5 +1,3 @@
-# Drunk-Driving-Fatality-Analysis
-End-to-end data analytics project using Python, Machine Learning, Google BigQuery, and Tableau to analyze alcohol-related traffic fatalities.
 # 🚔 Alcohol-Related Fatal Crash Analytics
 ### End-to-End Data Analytics Project using Python, SQL, BigQuery, Machine Learning, and Tableau
 
