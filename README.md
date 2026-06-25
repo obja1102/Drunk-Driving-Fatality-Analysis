@@ -164,16 +164,8 @@ Drunk-Driving-Fatality-Analysis/
 ├── dashboard/
 │   └── Tableau Workbook (.twb/.twbx)
 │
-├── images/
-│   ├── dashboard_overview.png
-│   ├── state_drilldown.png
-│   └── county_drilldown.png
-│
 ├── presentation/
 │   └── Capstone Presentation.pdf
-│
-├── report/
-│   └── Final Capstone Report.pdf
 │
 └── README.md
 ```
