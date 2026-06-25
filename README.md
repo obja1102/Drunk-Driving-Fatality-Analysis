@@ -17,7 +17,7 @@ https://public.tableau.com/app/profile/jared.oberg/vizzes
 
 # Dashboard Preview
 
->  s<img width="800" height="447" alt="Recording2026-06-25130231-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/8bf8a555-f20f-43c6-83bb-33a96dfb1060" />
+>  <img width="800" height="447" alt="Recording2026-06-25130231-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/8bf8a555-f20f-43c6-83bb-33a96dfb1060" />
 
 
 ![Dashboard](images/dashboard_overview.png)
