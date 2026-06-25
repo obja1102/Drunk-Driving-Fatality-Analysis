@@ -159,7 +159,7 @@ Drunk-Driving-Fatality-Analysis/
 ├── notebooks/
 │   ├── 01_data_preparation.ipynb
 │   ├── 02_modeling.ipynb
-│   └── 03_dashboard_metrics.ipynb
+│   └── data_dictionary.md
 │
 ├── dashboard/
 │   └── Tableau Workbook (.twb/.twbx)
