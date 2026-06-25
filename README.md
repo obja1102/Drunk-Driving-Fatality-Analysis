@@ -154,17 +154,14 @@ Performance demonstrated that temporal variables, roadway characteristics, licen
 Drunk-Driving-Fatality-Analysis/
 
 │
-├── notebooks/
-│   ├── 01_data_preparation.ipynb
-│   ├── 02_modeling.ipynb
-│   └── data_dictionary.md
+├── 01_data_preparation.ipynb
+│── 02_modeling.ipynb
+│── data_dictionary.md
+│   
+│── Tableau Workbook (.twb/.twbx)
 │
-├── dashboard/
-│   └── Tableau Workbook (.twb/.twbx)
-│
-├── presentation/
-│   └── Capstone Presentation.pdf
-│
+├── Capstone Presentation.pdf
+│   
 └── README.md
 ```
 
